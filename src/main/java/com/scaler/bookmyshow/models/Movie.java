@@ -2,7 +2,7 @@ package com.scaler.bookmyshow.models;
 
 import java.util.List;
 
-public class Movie {
+public class Movie extends BaseModel {
     private String title;
     private List<Cast> casts;
 

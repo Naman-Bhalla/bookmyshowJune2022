@@ -2,7 +2,7 @@ package com.scaler.bookmyshow.models;
 
 import java.util.List;
 
-public class Auditorium {
+public class Auditorium extends BaseModel {
     private String name;
     private List<Seat> seats;
     private int capacity;

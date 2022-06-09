@@ -2,7 +2,7 @@ package com.scaler.bookmyshow.models;
 
 import java.util.Date;
 
-public abstract class Payment {
+public abstract class Payment extends BaseModel {
     private PaymentMethod paymentMethod;
     private Date timeOfPayment;
     private double amount;

@@ -2,7 +2,7 @@ package com.scaler.bookmyshow.models;
 
 import java.util.List;
 
-public class Booking {
+public class Booking extends BaseModel {
     private User bookedBy;
     private Show show;
     private List<ShowSeat> showSeats;

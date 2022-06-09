@@ -1,6 +1,6 @@
 package com.scaler.bookmyshow.models;
 
-public class User {
+public class User extends BaseModel {
     private String email;
 
     public String getEmail() {

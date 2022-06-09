@@ -3,7 +3,7 @@ package com.scaler.bookmyshow.models;
 import java.util.Date;
 import java.util.List;
 
-public class Show {
+public class Show extends BaseModel {
     private Movie movie;
     private Date startTime;
     private Date endTime;

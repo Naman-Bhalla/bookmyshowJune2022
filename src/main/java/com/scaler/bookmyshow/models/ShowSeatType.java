@@ -1,6 +1,6 @@
 package com.scaler.bookmyshow.models;
 
-public class ShowSeatType {
+public class ShowSeatType extends BaseModel {
     private Show show;
     private SeatType seatType;
     private double price;
