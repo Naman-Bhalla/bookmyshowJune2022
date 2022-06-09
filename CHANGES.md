@@ -1,0 +1,6 @@
+- startTime and endTime of a show
+- Language in a Show and not Movie
+- Enum for Languages
+- Class for Cast
+- Made payment class abstract
+- Child classes of Payment calling super in constructor
