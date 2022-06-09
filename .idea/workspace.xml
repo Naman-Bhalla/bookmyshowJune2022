@@ -6,19 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="619eed61-2a81-4bc6-9fc9-759c268be3e3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Auditorium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Auditorium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Booking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Cast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Cast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/City.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Seat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/SeatType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/SeatType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Show.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Show.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/ShowSeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/ShowSeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/ShowSeatType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/ShowSeatType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Theatre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654765918974</updated>
-      <workItem from="1654765921635" duration="2847000" />
+      <workItem from="1654765921635" duration="3580000" />
     </task>
     <servers />
   </component>
