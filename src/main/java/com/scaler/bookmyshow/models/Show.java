@@ -10,7 +10,7 @@ public class Show extends BaseModel {
     private Auditorium auditorium;
     private List<ShowSeat> showSeats;
     private List<ShowSeatType> showSeatTypes;
-    private String language;
+    private Language language;
 
     public Movie getMovie() {
         return movie;
