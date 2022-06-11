@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="619eed61-2a81-4bc6-9fc9-759c268be3e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGES.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGES.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Booking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Show.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/models/Show.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/repositories/AuditoriumRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/repositories/AuditoriumRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/controllers/BookingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/controllers/BookingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/services/BookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaler/bookmyshow/services/BookingService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654765918974</updated>
       <workItem from="1654765921635" duration="6557000" />
-      <workItem from="1654961431466" duration="8085000" />
+      <workItem from="1654961431466" duration="9013000" />
     </task>
     <servers />
   </component>

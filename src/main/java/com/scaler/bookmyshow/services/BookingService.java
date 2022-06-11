@@ -2,6 +2,7 @@ package com.scaler.bookmyshow.services;
 
 import com.scaler.bookmyshow.models.*;
 import com.scaler.bookmyshow.repositories.BookingRepository;
+import com.scaler.bookmyshow.repositories.InMemoryShowSeatRepository;
 import com.scaler.bookmyshow.repositories.ShowSeatRepository;
 
 import java.util.ArrayList;
@@ -10,11 +11,13 @@ import java.util.Comparator;
 import java.util.List;
 
 public class BookingService {
-    private BookingRepository bookingRepository;
+    private BookingRepository bookingRepository ;
     private ShowSeatRepository showSeatRepository;
 
-    public BookingService(BookingRepository bookingRepository) {
+    public BookingService(BookingRepository bookingRepository,
+                          ShowSeatRepository showSeatRepository) {
         this.bookingRepository = bookingRepository;
+        this.showSeatRepository = showSeatRepository;
     }
 
     public Booking createBooking(User user, Show show, List<Long> showSeatsIds) throws Exception {
